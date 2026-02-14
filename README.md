@@ -90,17 +90,3 @@ I'm Dev from Brazil
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 </div>
-
-## My Favorite Projects
-
-<p align="left">
-  <a href="https://github.com/KlebersonDuarte/Trabalho-Tic">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=KlebersonDuarte&repo=Trabalho-Tic&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/KlebersonDuarte/Proj_Farmacia">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=KlebersonDuarte&repo=Proj_Farmacia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"/>
-  </a>
-</p>
